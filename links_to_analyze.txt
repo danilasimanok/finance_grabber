@@ -1,0 +1,15 @@
+eurusd  https://www.instaforex.com/forex_analysis?tag=eur%usd&type=1
+gbpusd  https://www.instaforex.com/forex_analysis?tag=gbp%usd&type=1
+usdchf  https://www.instaforex.com/forex_analysis?tag=usd%chf&type=1
+usdcad  https://www.instaforex.com/forex_analysis?tag=usdcad&type=1
+usdjpy  https://www.instaforex.com/forex_analysis?tag=usd%jpy&type=1
+audusd  https://www.instaforex.com/forex_analysis?tag=aud%usd&type=1
+gbpjpy  https://www.instaforex.com/forex_analysis?tag=gbp%jpy&type=1
+eurgbp  https://www.instaforex.com/forex_analysis?tag=eur%gbp&type=1
+eurjpy  https://www.instaforex.com/forex_analysis?tag=eur%jpy&type=1
+nzdusd  https://www.instaforex.com/forex_analysis?tag=nzd%usd&type=1
+eurnzd  https://www.instaforex.com/forex_analysis?tag=eur%nzd&type=1
+silver  https://www.instaforex.com/forex_analysis?tag=silver&type=1
+gold    https://www.instaforex.com/forex_analysis?tag=gold&type=1
+
+https://www.instaforex.com/forex_analysis?tag=usdx&type=1
